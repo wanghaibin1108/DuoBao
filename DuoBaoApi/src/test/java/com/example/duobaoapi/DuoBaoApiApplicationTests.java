@@ -8,6 +8,7 @@ class DuoBaoApiApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println();
     }
 
 }
