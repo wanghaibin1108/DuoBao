@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DuoBaoApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoCommon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoComponent/DuoBaoComponentConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoComponent/DuoBaoComponentHystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoComponent/DuoBaoComponentZuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoDatabase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuoBaoService/src/main/java" charset="UTF-8" />
+  </component>
+</project>

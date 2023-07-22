@@ -1,0 +1,16 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: DuoBaoApi
+  cloud:
+    hypermedia:
+      refresh:
+        fixed-delay:  1000
+        initial-delay:  5000
+  task:
+    execution:
+      pool:
+        core-size: 10
+
+
